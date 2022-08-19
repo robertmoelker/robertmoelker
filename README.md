@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertmoelker from Amsterdam, The Netherlands
 - 👀 I’m interested in building (web) applications
-- 🌱 I’m currently learning VueJS & Nuxt
+- 🌱 I’m currently learning VueJS & NestJS
 - 🧑‍💻 Most used languages: PHP (Symfony), JS, TS, Vue, AngularIO
 
 <!---
